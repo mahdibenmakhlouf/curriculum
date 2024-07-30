@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the odin recipes</title>
+</head>
+<body>
+    <p><h1 >odin recipes</h1></p>
+    <ul>
+        <img src="./pizza.jpg" alt="neapolitan pizza" height="350" width="300">
+        <li>neapolitan pizza</li>
+        <img src="./spg.jpg" alt="spaghetti carbonara" height="350" width="300">
+        <li>spaghetti carbonara</li>
+        <img src="./bur.jpg" alt="wagyu berger" height="350" width="300">
+        <li>wagyu berger</li>
+    </ul>
+        
+</body>
+</html>
